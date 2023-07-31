@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="diet_preference">
+        <item value="Gluten Free">Gluter free</item>
+        <item value="Ketogenic">Ketogenic</item>
+        <item value="Vegetarian">Eggetarian</item>
+        <item value="Lacto-Vegetarian">Vegetarian</item>
+        <item value="Vegan">Vegan</item>
+        <item value="Primal">Non-vegetarian</item>
+    </string-array>
+    <string-array name="activity_level">
+        <item>No exercise</item>
+        <item>Lightly active</item>
+        <item>Moderately Active</item>
+        <item>Very Active</item>
+        <item>Hardcore Exercise</item>
+    </string-array>
+</resources>

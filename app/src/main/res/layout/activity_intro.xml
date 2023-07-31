@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.Intro"
+    android:orientation="vertical">
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_marginTop="300dp"
+    android:textSize="20sp"
+    style="@style/MaterialAlertDialog.Material3.Title.Text"
+    android:text="First Time Intro: Kabhi alvida na kehna"/>
+
+    <Button
+        android:id="@+id/letsGo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Lets Go"
+        android:layout_margin="80dp"/>
+</LinearLayout>

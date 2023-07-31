@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Dietifinic</string>
+    <string name="searchbar_hint">Search Recipe</string>
+    <string name="title">Next Meal</string>
+    <string name="secondary_text">Secondary Textgsjgs; lorem Secondary Textgsjgs; lorem </string>
+    <string name="menu_btn1">Home</string>
+    <string name="menu_btn2">Challenges</string>
+    <string name="menu_btn3">Community</string>
+    <string name="menu_btn4">Profile</string>
+    <string name="apiKey">9e37666420d546dfba873fd8176f571e</string>
+    <string name="error">Error</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

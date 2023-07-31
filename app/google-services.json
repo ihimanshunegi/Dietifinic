@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "995697380584",
+    "project_id": "dietifinic",
+    "storage_bucket": "dietifinic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995697380584:android:4185be444bd0d0ee46cd5d",
+        "android_client_info": {
+          "package_name": "com.example.dietifinic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995697380584-cpan927ivesgdot5j7ns9rbia95stmji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCklTDCPnAMvVRLMTWWoeRkLryLfEzSErM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995697380584-cpan927ivesgdot5j7ns9rbia95stmji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
